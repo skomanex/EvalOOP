@@ -57,6 +57,8 @@ internal class Program
                 }
             }
         }
+        Console.WriteLine();
+        Console.WriteLine("App par CHIARLINI Chloe et VOLLAND Jimmy");
         Console.ReadKey();
 
     }
